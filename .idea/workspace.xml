@@ -5,7 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f7882af-73bc-4903-b5d7-3b0d307adfe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tracker/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/public/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.test.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/reportWebVitals.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/setupTests.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +57,6 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="go.import.settings.migrated" value="true" />
@@ -209,7 +222,10 @@
       <workItem from="1626560173442" duration="2260000" />
       <workItem from="1626643572665" duration="7943000" />
       <workItem from="1627017625624" duration="2060000" />
-      <workItem from="1627029726882" duration="682000" />
+      <workItem from="1627029726882" duration="859000" />
+      <workItem from="1627031306442" duration="2680000" />
+      <workItem from="1627035453066" duration="93000" />
+      <workItem from="1627084619085" duration="199000" />
     </task>
     <servers />
   </component>
