@@ -5,21 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f7882af-73bc-4903-b5d7-3b0d307adfe6" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/tracker/src/components/header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/About.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/Contact.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/Footer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/Navigation.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tracker/src/components/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tracker/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tracker/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/tracker/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/public/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/App.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tracker/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/App.test.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/App.test.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/index.css" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/index.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/components/header.jsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/tracker/src/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/logo.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/reportWebVitals.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/reportWebVitals.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/tracker/src/setupTests.js" beforeDir="false" afterPath="$PROJECT_DIR$/tracker/src/setupTests.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/tracker/src/setupTests.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,8 +69,27 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.1891892" />
     <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/tracker/src/pages" />
+      <recent name="$PROJECT_DIR$/tracker/src/base" />
+      <recent name="$PROJECT_DIR$/tracker/src" />
+    </key>
   </component>
   <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="DjangoTestsConfigurationType">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
