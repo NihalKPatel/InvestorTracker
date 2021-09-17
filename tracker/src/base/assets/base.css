@@ -1,0 +1,11 @@
+.navbar {
+    overflow: hidden;
+    background-color: #e8e8e8;
+    color: red;
+    top: 0%; /* Position the navbar at the top of the page */
+    width: 100%; /* Full width */
+}
+
+.py-1 {
+    color: black;
+}
